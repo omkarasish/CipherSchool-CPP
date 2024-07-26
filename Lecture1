@@ -1,0 +1,17 @@
+******************* Introduction to C++ *************************
+This lecture was all about importance of programming language, how does a computer calculates (like decimal to binary and vice-versa, etc.)
+Programming language helps us to communicate with computer and solve problems using a computer.
+
+*********************** Why learn C++ ******************
+-> Efficiency - helps to solve problems faster
+-> Strong Abstracton Policy - helps storing the data really well
+-> Standard templte Library(STL) - asset of pre-defined data types
+-> Best in Resourse Constraint Enviornment 
+-> Strong Typing and Compile-Time Checks
+
+****************** What is an IDE and Compiler **************
+An IDE is a tool/software  which helps you to wrute the code more faster and efficiently, and helps to run the code faster.
+A Compiler is something which converts high-level language to low-level language for the computer to understand and perform the tasks, calculations and programming.
+***************** High level and Low level Languages *********************
+High Level - can be understaood by humans and other intelligence species only.
+Low Level - can be understood by computer.
